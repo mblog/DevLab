@@ -3,8 +3,8 @@
 
 https://www.typescriptlang.org/
 
-> Jeder JavaScript Code ist auch TypeScript Code!
-Abwärtskompatibel
+> Jeder JavaScript Code ist auch TypeScript Code!   
+*Abwärtskompatibel*
 
 ## Warum TypeScript?
 * JavaScript mit statischer Typisierung

@@ -1,0 +1,23 @@
+{
+  "name": "basics",
+  "version": "1.0.0",
+  "description": "TypeScript",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/uuid": "^8.3.4",
+    "ts-node": "^10.7.0",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "typescript": "^4.6.3"
+  }
+}
